@@ -13,7 +13,9 @@
 - Material Desing
 - Exoplayer
 - Spring Boot
-- Firebase
+- FirebaseUI
+- Firebase Authentication 
+- Firebase FCM
 - Livedata
 
 ### VJudge 
