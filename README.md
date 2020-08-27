@@ -14,6 +14,8 @@
 - Exoplayer
 - Spring Boot
 - Firebase
+- Livedata
+
 
 ### Contact 📮
 - Twitter: [@Paul9834](https://twitter.com/Paul9834)
