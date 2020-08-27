@@ -6,6 +6,14 @@
 ## Hi there 👋
 
 ### Skills 💻
+- Kotlin
+- Java
+- MVVM
+- Retrofit
+- Material Desing
+- Exoplayer
+- Spring Boot
+- Firebase
 
 ### Contact 📮
 - Twitter: [@Paul9834](https://twitter.com/Paul9834)
