@@ -15,7 +15,6 @@
 - FirebaseUI
 - Firebase Authentication 
 - Firebase FCM
-- Livedata
 
 ### VJudge 
 - https://vjudge.net/user/Paul9834
