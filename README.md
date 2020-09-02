@@ -19,7 +19,6 @@
 ### VJudge 
 - https://vjudge.net/user/Paul9834
 
-
 ### Contact 📮
 - Twitter: [@Paul9834](https://twitter.com/Paul9834)
 - LinkedIn: [linkedin.com/in/Paul9834](https://in.linkedin.com/in/Paul9834)
