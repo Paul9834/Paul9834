@@ -1,7 +1,6 @@
 <img src= "https://i.imgur.com/boMHSkY.png"></img>
 <br>
 <br>
-
 ## Hi there 👋
 
 ### Skills 💻
