@@ -17,9 +17,7 @@
 - Firebase FCM
 
 ### Stackoverflow 
-
 <a href="https://stackoverflow.com/users/10305186/kevin-paul-montealegre-melo"><img src="https://stackoverflow.com/users/flair/10305186.png?theme=dark" width="208" height="58" alt="profile for Kevin Paul Montealegre Melo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kevin Paul Montealegre Melo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ### VJudge 
 - https://vjudge.net/user/Paul9834
 
