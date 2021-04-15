@@ -3,6 +3,9 @@
 <br>
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?Paul9834&color=green)
+
+
 ### Skills 💻
 - Kotlin
 - Java
@@ -28,7 +31,5 @@
 ✉️ kemontealegre1@poligran.edu.co
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Paul9834&count_private=true&show_icons=true&include_all_commits=true)
-
-![](https://komarev.com/ghpvc/?Paul9834)
 
 
