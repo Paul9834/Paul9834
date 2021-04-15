@@ -3,7 +3,7 @@
 <br>
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?Paul9834&color=green)
+![](https://komarev.com/ghpvc/?username=paul9834&color=blue)
 
 
 ### Skills 💻
