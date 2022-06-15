@@ -17,6 +17,12 @@
 - Firebase Authentication 
 - Firebase FCM
 
+### Languages 💻
+
+<a href="https://github.com/Paul9834">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul9834&layout=compact" />
+</a>
+
 ### Stackoverflow 
 <a href="https://stackoverflow.com/users/10305186/kevin-paul-montealegre-melo"><img src="https://stackoverflow.com/users/flair/10305186.png?theme=dark" width="208" height="58" alt="profile for Kevin Paul Montealegre Melo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kevin Paul Montealegre Melo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
