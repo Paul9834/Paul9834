@@ -5,7 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=paul9834&color=blue)
 
-
 ### Skills 💻
 - Kotlin
 - Java
