@@ -7,21 +7,27 @@
 
 ### Skills 💻
 
-**Mobile (Android)**
-- Kotlin · Jetpack Compose · MVVM · Clean Architecture · Hilt · Coroutines & Flow · Jetpack Navigation · Room/DataStore · WorkManager · Paging 3 · ExoPlayer · Material Design 3
+**Mobile**
+- Kotlin · Jetpack Compose · MVVM · Clean Architecture · Hilt/Dagger · Coroutines & Flow  
+- Jetpack Navigation · Room · DataStore · WorkManager · Paging 3 · ExoPlayer · Material Design 3  
+- Flutter (Dart) · SwiftUI/MVVM (Swift)
 
-**Backend**
-- Spring Boot · Spring Data JPA · Spring Security · Ktor · RESTful APIs · Docker · Gradle Kotlin DSL
+**Front‑end**
+- React · Angular · Vaadin · HTML · CSS/SCSS · TypeScript · JavaScript
 
-**Cloud & Firebase**
-- Firebase Authentication · Cloud Firestore · FCM · Crashlytics · FirebaseUI · Firebase Analytics · Cloud Storage
+**Back‑end & Cloud**
+- Spring Boot · Spring Security · Spring Data JPA · Spring Cloud GCP  
+- Ktor · RESTful API design · Docker & Docker‑Compose · GitHub Actions CI/CD
 
-**DevOps & QA**
-- Git & GitHub · GitHub Actions CI/CD · JUnit 5 · Espresso · MockK/Mockito · Compose UI Testing
+**Databases & Messaging**
+- Cloud Firestore · Firebase Auth · Firebase Cloud Messaging · SQL (MySQL/PostgreSQL) · Hibernate · JPA
+
+**Testing & QA**
+- JUnit 5 · Espresso · MockK / Mockito · Compose UI Testing
 
 **Principles & Patterns**
-- SOLID · Repository Pattern · Clean Architecture
-
+- SOLID · Clean Architecture · Repository Pattern
+  
 ### Languages 💻
 
 <a href="https://github.com/Paul9834">
