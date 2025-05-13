@@ -6,16 +6,21 @@
 ![](https://komarev.com/ghpvc/?username=paul9834&color=blue)
 
 ### Skills 💻
-- Kotlin
-- Java
-- MVVM
-- Retrofit
-- Material Desing
-- Exoplayer
-- Spring Boot
-- FirebaseUI
-- Firebase Authentication 
-- Firebase FCM
+
+**Mobile (Android)**
+- Kotlin · Jetpack Compose · MVVM · Clean Architecture · Hilt · Coroutines & Flow · Jetpack Navigation · Room/DataStore · WorkManager · Paging 3 · ExoPlayer · Material Design 3
+
+**Backend**
+- Spring Boot · Spring Data JPA · Spring Security · Ktor · RESTful APIs · Docker · Gradle Kotlin DSL
+
+**Cloud & Firebase**
+- Firebase Authentication · Cloud Firestore · FCM · Crashlytics · FirebaseUI · Firebase Analytics · Cloud Storage
+
+**DevOps & QA**
+- Git & GitHub · GitHub Actions CI/CD · JUnit 5 · Espresso · MockK/Mockito · Compose UI Testing
+
+**Principles & Patterns**
+- SOLID · Repository Pattern · Clean Architecture
 
 ### Languages 💻
 
