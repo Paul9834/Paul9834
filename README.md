@@ -42,8 +42,7 @@
 
 ### Contact 📮
 - LinkedIn: [linkedin.com/in/Paul9834](https://in.linkedin.com/in/Paul9834)
----
-✉️ kemontealegre1@poligran.edu.co
+- ✉️ : paul9834developer@gmail.com
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Paul9834&count_private=true&show_icons=true&include_all_commits=true)
 
