@@ -1,49 +1,84 @@
-<img src= "https://i.imgur.com/TeqNlvM.png"></img>
-<br>
-<br>
+<img src="https://i.imgur.com/TeqNlvM.png" />
+
 ## Hi there 👋
+
+Senior Mobile Software Engineer (Android · iOS)
+
+Building scalable mobile applications used by millions.  
+Experience in fintech and enterprise environments, focused on performance, clean architecture, and high-impact delivery.
+
+Open to remote roles and relocation (EU visa sponsorship).
 
 ![](https://komarev.com/ghpvc/?username=paul9834&color=blue)
 
-### Skills 💻
+---
 
-**Mobile**
-- Kotlin · Jetpack Compose · MVVM · Clean Architecture · Hilt/Dagger · Coroutines & Flow  
-- Jetpack Navigation · Room · DataStore · WorkManager · Paging 3 · ExoPlayer · Material Design 3  
-- Flutter (Dart) · SwiftUI/MVVM (Swift)
+## Impact 🚀
+- 18M+ users reached across mobile applications  
+- 5+ apps shipped to production  
+- 6+ years building scalable mobile solutions  
 
-**Front‑end**
-- React · Angular · Vaadin · HTML · CSS/SCSS · TypeScript · JavaScript
+---
 
-**Back‑end & Cloud**
-- Spring Boot · Spring Security · Spring Data JPA · Spring Cloud GCP  
-- Ktor · RESTful API design · Docker & Docker‑Compose · GitHub Actions CI/CD
+## Skills 💻
 
-**Databases & Messaging**
-- Cloud Firestore · Firebase Auth · Firebase Cloud Messaging · SQL (MySQL/PostgreSQL) · Hibernate · JPA
+### Mobile (Core)
+Kotlin · Jetpack Compose · Android SDK · MVVM · Clean Architecture · Coroutines & Flow  
+Hilt/Dagger · Navigation · Room · DataStore · WorkManager · Paging 3  
 
-**Testing & QA**
-- JUnit 5 · Espresso · MockK / Mockito · Compose UI Testing
+### iOS
+Swift · SwiftUI · MVVM  
 
-**Principles & Patterns**
-- SOLID · Clean Architecture · Repository Pattern
-  
-### Languages 💻
+### Backend & APIs
+Spring Boot · REST API Design · Spring Security · JPA · Hibernate  
 
-<a href="https://github.com/Paul9834">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul9834&layout=compact" />
-</a>
+### Cloud & Tools
+Firebase (Auth · Firestore · FCM) · Docker · GitHub Actions CI/CD  
 
-### Stackoverflow 
-<a href="https://stackoverflow.com/users/10305186/kevin-paul-montealegre-melo"><img src="https://stackoverflow.com/users/flair/10305186.png?theme=dark" width="208" height="58" alt="profile for Kevin Paul Montealegre Melo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kevin Paul Montealegre Melo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+### Frontend (Secondary)
+React · Angular · TypeScript  
 
-### VJudge / Competitive Programming
+### Testing
+JUnit · Espresso · MockK · Mockito · Compose UI Testing  
+
+### Principles
+SOLID · Clean Architecture · Repository Pattern  
+
+---
+
+## Languages 💻
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul9834&layout=compact" />
+</p>
+
+---
+
+## Stack Overflow
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/10305186/kevin-paul-montealegre-melo">
+    <img src="https://stackoverflow.com/users/flair/10305186.png?theme=dark" />
+  </a>
+</p>
+
+---
+
+## Competitive Programming
+
 - https://vjudge.net/user/Paul9834
 
-### Contact 📮
-- LinkedIn: [linkedin.com/in/Paul9834](https://in.linkedin.com/in/Paul9834)
-- ✉️ : paul9834developer@gmail.com
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Paul9834&count_private=true&show_icons=true&include_all_commits=true)
+## Contact 📮
 
+- LinkedIn: https://linkedin.com/in/Paul9834  
+- Email: paul9834developer@gmail.com  
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul9834&count_private=true&show_icons=true&include_all_commits=true" />
+</p>
