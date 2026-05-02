@@ -7,7 +7,6 @@ Senior Mobile Software Engineer (Android · iOS)
 Building scalable mobile applications used by millions.  
 Experience in fintech and enterprise environments, focused on performance, clean architecture, and high-impact delivery.
 
-Open to remote roles and relocation (EU visa sponsorship).
 
 ![](https://komarev.com/ghpvc/?username=paul9834&color=blue)
 
