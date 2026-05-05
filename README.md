@@ -45,14 +45,6 @@ SOLID · Clean Architecture · Repository Pattern
 
 ---
 
-## Languages 💻
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul9834&layout=compact" />
-</p>
-
----
-
 ## Stack Overflow
 
 <p align="center">
@@ -75,9 +67,3 @@ SOLID · Clean Architecture · Repository Pattern
 - Email: paul9834developer@gmail.com  
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul9834&count_private=true&show_icons=true&include_all_commits=true" />
-</p>
