@@ -3,6 +3,7 @@
 Senior Mobile Software Engineer specializing in **Android** and cross-platform mobile architecture.  
 Focused on building scalable, high-performance applications for fintech and enterprise environments, with strong experience in clean architecture, maintainability, and production delivery at scale.
 
+
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=paul9834&color=blue">
     <img src="https://komarev.com/ghpvc/?username=paul9834&color=blue" alt="Profile views" />
