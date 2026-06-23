@@ -1,5 +1,6 @@
 # Kevin Paul Montealegre Melo
 
+
 Senior Mobile Software Engineer specializing in **Android** and cross-platform mobile architecture.  
 Focused on building scalable, high-performance applications for fintech and enterprise environments, with strong experience in clean architecture, maintainability, and production delivery at scale.
 
@@ -8,6 +9,8 @@ Focused on building scalable, high-performance applications for fintech and ente
     <img src="https://komarev.com/ghpvc/?username=paul9834&color=blue" alt="Profile views" />
   </a>
 </p>
+
+
 
 ## Profile
 
